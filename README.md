@@ -1,1 +1,2 @@
 # QUIZ-GAME
+To run the Python quiz game project that I developed you can start by opening Visual Studio Code and creating a new file named quiz_game.py. After pasting the Python code for the game into this file, I save it. To run the game, I open the terminal in VSCode, navigate to the directory containing quiz_game.py, and execute it by typing python quiz_game.py in the command line. Then, I interact with the game directly in the terminal, answering the multiple-choice questions and receiving feedback on my responses.
